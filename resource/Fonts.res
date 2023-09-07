@@ -634,8 +634,8 @@
 	{
 		"8"
 		{
-			"font"		"resource/fonts/jackinput.ttf"
-			"name"		"JackInput"
+			"font"		"resource/fonts/MingLiU-ExtB.ttf"
+			"name"		"MingLiU-ExtB"
 		}
 		"9"
 		{
@@ -651,6 +651,11 @@
 		{
 			"font"		"resource/fonts/Blocks.ttf"
 			"name"		"Blocks"
+		}
+		"12"
+		{
+			"font"		"resource/fonts/JackInput.ttf"
+			"name"		"JackInput"
 		}
 	}
 }
