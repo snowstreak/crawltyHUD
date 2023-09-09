@@ -34,7 +34,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"PlayerStatusHealthImageBG"
-		"xpos"				"140"
+		"xpos"				"14000"
 		"ypos"				"130"
 		"zpos"				"3"
 		"wide"				"64"
@@ -48,7 +48,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"PlayerStatusHealthImageBG2"
-		"xpos"				"140"
+		"xpos"				"14000"
 		"ypos"				"130"
 		"zpos"				"3"
 		"wide"				"64"
@@ -63,7 +63,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"PlayerStatusHealthBonusImage"
-		"xpos"				"140"
+		"xpos"				"14000"
 		"ypos"				"130"
 		"zpos"				"3"
 		"wide"				"64"
@@ -98,9 +98,7 @@
 		"ControlName"				"CExLabel"
 		"fieldName"					"PlayerStatusHealthValueShadow"
 		"xpos"						"151"
-		"xpos_minmode"				"111"
-		"ypos"						"c-83"
-		"ypos_minmode"				"c-105"
+		"ypos"						"158"
 		"wide"						"100"
 		"tall"						"40"
 		"zpos"						"5"

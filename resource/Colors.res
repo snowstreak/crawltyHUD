@@ -5,17 +5,17 @@
 		///////////////////////////////////////////////////////////
 		////////// BEGIN OF COLOR CUSTOMIZATION SECTION ///////////
 		///////////////////////////////////////////////////////////
-		"HP"						"0 255 200 255"
-		"low HP"					"255 142 138 255"
-		"buffed HP"				"0 247 255 255"
-		"TargetID low HP"			"255 10 0 255"
-		"TargetID buffed HP"		"0 217 255 255"
-		"Ammo in Clip"			"154 255 238 255"
-		"Ammo in Reserve"			"154 255 238 255"
+		"HP"						"0 255 152 255"
+		"low HP"					"255 163 159 255"
+		"buffed HP"				"224 255 112 255"
+		"TargetID low HP"			"255 163 159 255"
+		"TargetID buffed HP"		"213 255 238 255"
+		"Ammo in Clip"			"0 255 152 255"
+		"Ammo in Reserve"			"0 255 152 255"
 		"Damage Numbers"			"255 255 255 255"
-		"Ubercharge Bar"			"162 255 232 255"
-		"Ubercharge Full 1"		"119 255 187 255"
-		"Ubercharge Full 2"		"113 238 255 25555"
+		"Ubercharge Bar"			"0 255 152 255"
+		"Ubercharge Full 1"		"0 255 152 255"
+		"Ubercharge Full 2"		"255 255 255 255"
 		"TanLight"					"255 255 255 255"
 		///////////////////////////////////////////////////////////
 		/////////// END OF COLOR CUSTOMIZATION SECTION ////////////
