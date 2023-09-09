@@ -15,7 +15,7 @@
 		"Damage Numbers"			"255 255 255 255"
 		"Ubercharge Bar"			"0 255 152 255"
 		"Ubercharge Full 1"		"0 255 152 255"
-		"Ubercharge Full 2"		"255 255 255 255"
+		"Ubercharge Full 2"		"146 255 211 255"
 		"TanLight"					"255 255 255 255"
 		///////////////////////////////////////////////////////////
 		/////////// END OF COLOR CUSTOMIZATION SECTION ////////////

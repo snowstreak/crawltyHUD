@@ -205,7 +205,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"PlayerStatusMarkedForDeathSilentImage"
-		"xpos"				"85"
+		"xpos"				"850"
 		"ypos"				"165"
 		"zpos"				"7"
 		"wide"				"31"
@@ -385,7 +385,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"PlayerStatus_SpyMarked"
-		"xpos"				"85"
+		"xpos"				"850"
 		"ypos"				"165"
 		"zpos"				"7"
 		"wide"				"31"
